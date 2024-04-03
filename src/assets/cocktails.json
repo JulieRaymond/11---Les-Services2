@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mojito",
+    "price": 8,
+    "image": "assets/images/mojito.jpeg"
+  },
+  {
+    "name": "Cosmopolitan",
+    "price": 10,
+    "image": "assets/images/cosmopolitan.jpeg"
+  },
+  {
+    "name": "Margarita",
+    "price": 9,
+    "image": "assets/images/margarita.jpeg"
+  }
+]
